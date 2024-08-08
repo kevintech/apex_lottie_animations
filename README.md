@@ -3,7 +3,17 @@
 ## Introduction
 APEX Lottie Animations is a collection of Oracle APEX plugins that allow you to seamlessly integrate Lottie animations into your applications. With support for both template and region components, these plugins enable you to add high-quality, scalable animations that enhance the user experience with minimal effort.
 
-Lottie animations are vector-based, ensuring smooth playback across different devices and screen sizes. This plugin provides a straightforward way to load and control these animations, making it ideal for adding dynamic, eye-catching content to your APEX applications without sacrificing performance..
+Lottie animations are vector-based, ensuring smooth playback across different devices and screen sizes. This plugin provides a straightforward way to load and control these animations, making it ideal for adding dynamic, eye-catching content to your APEX applications without sacrificing performance.
+
+<div align="center">
+  <img src="./assets/1.gif" alt="dotLottie web sample 1" />
+
+  <img src="./assets/2.gif" alt="dotLottie web sample 2" />
+
+  <img src="./assets/3.gif" alt="dotLottie web sample 3" />
+
+  <img src="./assets/4.gif" alt="dotLottie web sample 4" />
+</div>
 
 ### Plugins Included
 - **Template Component Plugin**: Add Lottie animations directly into APEX with a Template component.
@@ -43,7 +53,7 @@ Lottie animations are vector-based, ensuring smooth playback across different de
 ## Support
 If you encounter any issues or have questions, please feel free to reach out:
 
-- **Email**: [your.hello@kevintech.ninja](mailto:your.hello@kevintech.ninja)
+- **Email**: [hello@kevintech.ninja](mailto:hello@kevintech.ninja)
 - **GitHub Issues**: Open an issue in this repository.
 
 ---
