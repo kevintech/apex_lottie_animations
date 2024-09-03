@@ -1,0 +1,35 @@
+{
+  "name" : "APEX Lottie Animations",
+  "version" : "1.0",
+  "description" : "This plugin provides a straightforward way to load and control Lottie animations, making it ideal for adding dynamic, eye-catching content to your APEX applications without sacrificing performance.",
+  "keywords" : ["APEX","Lottie","Animations","SVG Animations"],
+  "homepage" : "https://github.com/kevintech/apex_lottie_animations",
+  "bugs" : {
+    "url" : "https://github.com/kevintech/apex_lottie_animations/issues",
+    "email" : "hello@kevintech.ninja"
+  },
+  "license" : "MIT",
+  "commercial" : "No",
+  "author" : {
+    "name" : "Kevin Herrarte",
+    "email" : "hello@kevintech.ninja",
+    "url" : "https://kevintech.ninja",
+    "twitter": ""
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/kevintech/apex_lottie_animations.git"
+  },
+ "oracle" : {
+    "versions" : ["19.0.0.0","21.0.0.0","23.0.0.0"],
+    "apex" : {
+      "versions" : ["24.1","24.2"],
+      "plugin" : {
+        "internalName" : "BLUR_UN_BLUR",
+        "type" : "Dynamic Action",
+        "demo" : "",
+        "previewImage" : "https://raw.githubusercontent.com/farooqahmad47/blur_unblur/main/BLUR_UNBLUR.png"
+      }
+    }
+  }
+}
